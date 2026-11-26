@@ -1,0 +1,22 @@
+[
+  {
+    "script": "01_langchain_plan.py",
+    "status": "passed",
+    "output_characters": 939
+  },
+  {
+    "script": "02_langgraph_workflow.py",
+    "status": "passed",
+    "output_characters": 958
+  },
+  {
+    "script": "03_autogen_team.py",
+    "status": "passed",
+    "output_characters": 1897
+  },
+  {
+    "script": "04_crewai_crew.py",
+    "status": "passed",
+    "output_characters": 1033
+  }
+]

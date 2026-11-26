@@ -1,0 +1,9 @@
+# Tested direct dependencies: Python 3.12, Windows, 10 November 2026.
+# Full resolved dependency set: requirements-lock.txt.
+langchain-core==1.7.7
+langchain-openai==1.7.4
+langgraph==1.2.20
+autogen-agentchat==0.7.5
+autogen-ext[openai]==0.7.5
+crewai==1.15.39
+python-dotenv==1.2.4

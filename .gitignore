@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.crewai/
+live_check_results.json
+trainer_guide.md
+student_guide.md
